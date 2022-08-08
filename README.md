@@ -1,0 +1,1 @@
+# dotnetcore-dependency-injection-lifecycle-poc
